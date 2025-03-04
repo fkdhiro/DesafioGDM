@@ -1,29 +1,5 @@
 # Desafio Desenvolvedor Back-End Júnior 👩‍💻
-
-Agradecemos seu interesse em se tornar parte da nossa equipe!
-
-## Sobre a Empresa e o Ambiente de Trabalho 🚀
-
-Somos a **Growth Digital Marketing**, uma empresa especializada em marketing digital focada no mercado de **iGaming**. No nosso time de gestão de tráfego, nossos gestores investem mais de meio milhão de reais por dia em tráfego pago. Estamos em plena expansão, e nossa equipe é composta pelos melhores profissionais em suas áreas. Se você for escolhido, é porque acreditamos que você também é um dos melhores na sua especialidade.
-
-Nossa empresa é altamente competitiva, e buscamos a excelência em cada projeto. Valorizamos a entrega pontual e a alta qualidade e mantemos um ambiente colaborativo onde todos se ajudam sempre que possível. Apoiamos o crescimento coletivo, equilibrando a intensidade de um mercado competitivo com uma cultura leve e de cooperação.
-
-## Sobre o Ambiente de Trabalho no Departamento de T.I ☕
-
-O departamento de TI da GDM reflete a cultura colaborativa da empresa. Somos um time de profissionais altamente qualificados com expertise em tecnologias de ponta e uma disposição para compartilhar conhecimento.
-
-Nosso front-end é desenvolvido com **React.js** e **Next.js**, garantindo interfaces de alta performance. No backend, utilizamos principalmente **Node.js** e **NestJS** junto com uma robusta infraestrutura em nuvem na **AWS**.
-
-## Governança do Departamento de T.I 🕵🏽‍♂️
-Nossa equipe é formada por profissionais dedicados ao crescimento contínuo, à colaboração mútua e à excelência em tecnologia. Contamos com uma estrutura organizada para garantir eficiência e inovação, composta pelos seguintes cargos:
-
-- Gerente de T.I
-- Líder técnico
-- Arquiteto de Software Front-End
-- Líder de Ux/Ui
-- Arquiteto de Software Back-End
-
-Além desses papéis, nossa equipe também inclui um engenheiro front-end e um designer motion, que contribuem para a qualidade e inovação dos nossos projetos. Trabalhamos juntos para impulsionar a evolução do departamento e aprimorar constantemente nossas entregas.
+Willian Hiroshi
 
 ## Stack Necessária 💻
 
@@ -71,9 +47,3 @@ Toda a configuração e estruturação do sistema já foram implementadas, inclu
 - Implementação adequada das rotas de autenticação.
 - Implementação do armazenamento eficiente dos dados no banco de dados MongoDB.
 - **Não** é necessário, mas seria um grande diferencial a implementação de um sistema de autenticação 2FA.
-
-## Próximos Passos
-
-Envie o link da aplicação e do repositório para nosso time de recrutamento em [vagas@gdigitalmkt.com].
-
-**Boa sorte e mãos à obra!**

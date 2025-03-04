@@ -1,4 +1,4 @@
-const apiUrl = "http://localhost:3000"; // Ajuste para a URL da sua API
+const apiUrl = "desafiogdm-production.up.railway.app"; // Ajuste para a URL da sua API
 
 // Função de Cadastro
 document.getElementById("registerForm")?.addEventListener("submit", async (e) => {
